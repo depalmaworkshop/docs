@@ -9,9 +9,13 @@ author: Pontus Karlsson
 contributor: Leontina Heffernan
 tags:
   - fabrics
+  - growth_abc
+  - growth_xyz
 ---
 # asdasdasdasdasdasd
 ## asdasads
 ### asdaasd
 
 **asdasdasdasdasd** asdadaasd
+
+#cogoods
