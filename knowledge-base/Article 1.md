@@ -4,10 +4,14 @@ sidebarTitle:
 sidebar: Knowledge Base
 github: 
 previousPage: 
-nextPage: 
+nextPage: "[[Article 2]]"
 author: Pontus Karlsson
 contributor: Leontina Heffernan
 tags:
   - fabrics
 ---
-asdasdasdasdasdasd
+# asdasdasdasdasdasd
+## asdasads
+### asdaasd
+
+**asdasdasdasdasd** asdadaasd

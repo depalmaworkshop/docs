@@ -2,9 +2,10 @@
 title: 
 sidebarTitle: 
 sidebar: Knowledge Base
-github:
-previousPage:
-nextPage:
+github: 
+previousPage: "[[Article 2]]"
+nextPage: 
+author: Leontina Heffernan
 ---
 # Agile Methodology
 
