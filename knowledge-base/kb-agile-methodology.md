@@ -1,3 +1,11 @@
+---
+title: 
+sidebarTitle: 
+sidebar: Knowledge Base
+github:
+previousPage:
+nextPage:
+---
 # Agile Methodology
 
 ## Overview
