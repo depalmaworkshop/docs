@@ -1,0 +1,9 @@
+**_Profit, People, Planet and Purpose_**
+
+The term **_bottom line_** refers to the line at the bottom of a financial report that shows a company’s net income. As net income has traditionally been considered **_the most important factor to consider when assessing the performance, success and progress of a business_**, the term bottom line itself has come to signify just that. 
+
+In line with a growing awareness and importance of environmental and social responsibility within society as a whole, businesses are increasingly being held to account by governments, investors and other stakeholders for the impact of their activities on society and the environment.
+
+In answer to this, the **_Triple Bottom Line (TBL)_** was conceptualised in 1994 by John Elkington (a pioneer in the field of sustainability and corporate responsibility) as a new framework to measure the success of sustainable businesses. The TBL is a “full cost accounting” approach which considers two additional “bottom lines”: social and environmental “cost-benefit outcomes”.  Nowadays it is not enough for a business to measure financial success and economic impact. In addition to **_Profit_** any measurement of success must also consider **_People_** and **_Planet_**.
+
+The **_Quadruple Bottom Line (QBL)_** (a term allegedly coined by social commentator and entrepreneur Ayman Sawaf) adds a fourth dimension to this framework which gives context to and influences the other three: **_Purpose_**.  This dimension describes an organisation’s values, culture and reason for being and allows it to measure to what extent goals, actions and outcomes are aligned with those.
