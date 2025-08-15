@@ -1,2 +1,3 @@
-# Academy
-This is the repository for DePalma Workshop Academy.
+# Documentation
+This folder is where we keep the Documentation for DePalma Workshop. How does it work?
+
