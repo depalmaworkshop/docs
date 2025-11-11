@@ -1,11 +1,13 @@
 ---
-title: 
-sidebarTitle: 
+title:
+sidebarTitle:
 sidebar: Knowledge Base
-github: 
+github:
 previousPage: "[[Article 2]]"
-nextPage: 
+nextPage:
 author: Leontina Heffernan
+created: 2024-12-20T09:52
+updated: 2025-09-30T13:11
 ---
 # Agile Methodology
 

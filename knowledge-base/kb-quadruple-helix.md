@@ -1,3 +1,7 @@
+---
+created: 2025-01-19T13:19
+updated: 2025-09-30T13:11
+---
 The quadruple Helix (co-developed by Elias G. Carayannis and David F.J. Campbell in 2009) is a model of innovation that recognises the role of four major actors in fostering entrepreneurship and driving innovation and economic growth in a knowledge-based economy and society:  academia, industry, government and the public (the latter represented by media, culture and civil society). The model helps to explain and visualise how knowledge (as a key resource) changes to innovation and know-how by circulating between societal subsystems (represented by helices) through dynamic interactions and exchange between these four actors.
 
 ![A diagram of a company

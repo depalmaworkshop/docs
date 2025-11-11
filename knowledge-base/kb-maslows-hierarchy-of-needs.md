@@ -1,3 +1,7 @@
+---
+created: 2025-01-19T13:19
+updated: 2025-09-30T13:11
+---
 Published by Abraham Maslow in 1943, Maslow’s hierarchy of needs is a psychological theory and model for understanding human motivation and fulfilment. 
 
 The basis of the theory is that human beings are motivated by their needs and that an individual’s most basic needs must be (mostly) met before they are motivated to progress to meet more advanced needs. The theory describes five levels of needs that must be met to achieve well-being as well as examples of ways in which each need can be fulfilled.

@@ -1,3 +1,7 @@
+---
+created: 2025-01-19T13:19
+updated: 2025-09-30T13:11
+---
 **_Profit, People, Planet and Purpose_**
 
 The term **_bottom line_** refers to the line at the bottom of a financial report that shows a company’s net income. As net income has traditionally been considered **_the most important factor to consider when assessing the performance, success and progress of a business_**, the term bottom line itself has come to signify just that. 

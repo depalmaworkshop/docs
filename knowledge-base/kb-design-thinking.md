@@ -1,3 +1,7 @@
+---
+created: 2025-01-19T13:19
+updated: 2025-09-30T13:11
+---
 Design thinking is a customer-focused, non-linear, iterative approach to innovation. Multi-disciplinary teams participate in an almost continuous process of problem exploration and insight-generation to design creative out-of-box solutions.
 
 The most well-known model of design thinking was developed by the Hasso Plattner Institute of Design, Stanford. It includes five phases:

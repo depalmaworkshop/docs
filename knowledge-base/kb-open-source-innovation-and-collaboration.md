@@ -1,3 +1,7 @@
+---
+created: 2025-01-19T13:19
+updated: 2025-09-30T13:11
+---
 **Open source**
 
 Opensource is a concept that initially applied only to computer software. It describes a type of computer software that is publicly accessible and comes with an **_opensource license_** (link to glossary/short WIKI definition) that grants users various rights (including the right to use, examine, modify and distribute the software and its source code) and dictates the terms of such use, modification and distribution. The opensource model is a form of **_open collaboration_** (link to glossary/short WIKI definition), inviting participation and contributions from a diverse range of individuals and encouraging an open and inclusive environment for creating and modifying software.  The opensource concept emerged as a response to the drawbacks of proprietary code including limited customisation options and vendor dependence.

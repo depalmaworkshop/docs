@@ -1,3 +1,7 @@
+---
+created: 2025-01-19T13:19
+updated: 2025-09-30T13:11
+---
 A digital product is an intangible (or non-physical) product that is created, delivered and/or consumed in a digital format. In the apparel industry, Digital Product Creation (DPC) refers to:
 
 a)     the process of collecting and storing data to generate digital representations (or twins) of products (and/or their components and processes) that can be used to realise value without physical inventory

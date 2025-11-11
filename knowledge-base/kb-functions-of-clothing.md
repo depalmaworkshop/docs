@@ -1,3 +1,7 @@
+---
+created: 2025-01-19T13:19
+updated: 2025-09-30T13:11
+---
 Note - The scope of our product is beyond the physical product. So we can add to the below
 
 Individual features of a garment can give it one or more functions that benefit - or help to meet the needs of - the consumer and/or society. These functions can be categorised into four groups: **_Aesthetic_**, **_Social_**, **_Economic_** and **_Technical_**. A garment’s function(s) contribute to its overall utility. (link to glossary)

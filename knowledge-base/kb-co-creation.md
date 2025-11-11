@@ -1,3 +1,7 @@
+---
+created: 2025-01-19T13:19
+updated: 2025-09-30T13:11
+---
 Co creation is a collaborative design and innovation process in which the creation of products, services or solutions is guided by insights and input from a community of stakeholders and/or experts from within (or even outside) the value chain.  
 
 The definitions of co creation and open innovation (link) share many similarities.
